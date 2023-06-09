@@ -10,7 +10,7 @@
 
 - 💞️ I’m looking to collaborate on Real life web development {FUll STACK DEV}.
 
-- 📫 How to reach me via .mail: NovemberXXI.Business@gmail.com ..
+- 📫 How to reach me via .mail: SirEMSetati@gmail.com ..
 
 <!---
 NovemberXXI/NovemberXXI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
